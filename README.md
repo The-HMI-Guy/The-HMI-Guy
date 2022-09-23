@@ -44,7 +44,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
     <td><img src="https://github.com/The-HMI-Guy/Profile/blob/main/icons/icons_mssql.jpg" width="200"></td>
-    <td><img src="https://github.com/The-HMI-Guy/Profile/blob/main/icons/icons_postgressql.jpg" width="200"></td>
+    <td><img src="https://github.com/The-HMI-Guy/Profile/blob/main/icons/icons_postgressql.png" width="200"></td>
   </tr>
 </table>
 <br/>
