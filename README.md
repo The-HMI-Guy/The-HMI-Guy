@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Blockchain Full Stack Engineer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 An Automation Engineer Learning About Web3 and Web Development<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Full%20Stack%2Developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -25,11 +25,10 @@
 
 - :computer: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, I am looking for a Blockchain Full Stack Engineer job within a forward-moving company.
 - Telegram: https://t.me/TGbcmaster
-- Skype   : live:.cid.7c3bbf3966473ea5
-<br>
+- Skype : live:.cid.7c3bbf3966473ea5
+  <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bc-expert&layout=compact&theme=algolia" alt="bc-expert" width="600px"/></a> </p>
-
 
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
