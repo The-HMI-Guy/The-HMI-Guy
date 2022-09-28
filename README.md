@@ -24,7 +24,7 @@
 <br><br>
 
 - Add About me detail
-<br>
+
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-HMI-Guy&layout=compact&theme=algolia" alt="The-HMI-Guy" width="600px"/></a> </p>
 
