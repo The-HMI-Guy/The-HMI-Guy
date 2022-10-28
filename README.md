@@ -17,12 +17,11 @@
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-HMI-Guy&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 <br><br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600px" height="300px" />
 <br><br>
 
-
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-HMI-Guy&layout=compact&theme=algolia" alt="The-HMI-Guy" width="900px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-HMI-Guy&layout=compact&theme=algolia" alt="The-HMI-Guy" width="600px"/></a> </p>
 
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
