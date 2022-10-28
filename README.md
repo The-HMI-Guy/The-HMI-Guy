@@ -17,7 +17,7 @@
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-HMI-Guy&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 <br><br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000px" height="300px" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000px" height="500px" />
 <br><br>
 
 <br>
