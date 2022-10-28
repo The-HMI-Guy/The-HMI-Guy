@@ -19,13 +19,10 @@
 <br><br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" />
 <br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
-<br><br>
-
-- Add About me detail
 
 
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-HMI-Guy&layout=compact&theme=algolia" alt="The-HMI-Guy" width="600px"/></a> </p>
 
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
