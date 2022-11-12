@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 An Automation Engineer, Learning About Web3 and Web Development<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Solidity|%200Hardhat|;%20Merkle Tree|&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Solidity|%20To%20Be%20Web3%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align='center'>
@@ -21,7 +21,6 @@
 <br><br>
 
 <br><br>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-HMI-Guy&layout=compact&theme=algolia" alt="The-HMI-Guy" width="600px"/></a> </p>
 
 <br>
