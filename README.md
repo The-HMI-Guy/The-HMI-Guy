@@ -1,5 +1,9 @@
 <h3 align="center">An Automation Engineer Learning Web3 & Web Development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-hmi-guy&label=Profile%20views&color=0e75b6&style=flat" alt="the-hmi-guy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-hmi-guy" alt="the-hmi-guy" /></a> </p>
+
 - 📝 I regularly write articles on [https://mirror.xyz/thehmiguy.eth](https://mirror.xyz/thehmiguy.eth)
 
 <h3 align="left">Connect with me:</h3>
