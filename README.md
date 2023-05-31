@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 <br> I'm an Automation Engineer diving into Web3 and Web Development 🚀</h1>
+<h1 align="center">Hey there! <br> I'm an Automation Engineer diving into Web3 and Web Development</h1>
 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Solidity%20|%20Web3%20|%20Hardhat%20|%20NFTs;Alchemy%20University%20'22&font=Montserrat&center=true&width=800&height=120&color=58a6ff&vCenter=true&size=30">
